@@ -1,0 +1,4 @@
+"shouldCalculateForRegisteredAndUnderLimit",1000,true,30
+"shouldCalculateForRegisteredAndOverLimit",1000000,true,500
+"shouldCalculateForUnRegisteredAndUnderLimit",1000,false,10
+"shouldCalculateForUnRegisteredAndOverLimit",1000000,false,500
